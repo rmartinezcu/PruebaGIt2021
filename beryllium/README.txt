@@ -1,8 +1,5 @@
-
-TITLE: 
-Beryllium - 100% Fully Responsive Free HTML5 Bootstrap Template
-
-CREDITS:
+Adicionando nuevas caracteristicas
+=================================
 
 Bootstrap
 http://getbootstrap.com/
@@ -22,4 +19,4 @@ https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 Owl Carousel
 http://www.owlcarousel.owlgraphic.com/
 
-Raul Martinez Cutipa
+TED Bundy , es un loco
