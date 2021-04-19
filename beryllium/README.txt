@@ -21,3 +21,6 @@ http://www.owlcarousel.owlgraphic.com/
 
 TED Bundy , es un loco. punto final
 
+Desde aqui ya se pueded hacer modificaciones////////////
+Por mi parte
+
