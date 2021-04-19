@@ -19,4 +19,5 @@ https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 Owl Carousel
 http://www.owlcarousel.owlgraphic.com/
 
-TED Bundy , es un loco
+TED Bundy , es un loco. punto final
+
